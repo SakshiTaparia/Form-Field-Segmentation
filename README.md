@@ -1,4 +1,4 @@
-# Form-Field-Segmentation
+# Form Field Segmentation
 
 In this assignment we work on processing photos and scans of printed form (of immunization records) in order to extract the form fields and the written information entered in them.
 
